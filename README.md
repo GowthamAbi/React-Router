@@ -22,7 +22,7 @@ This project is a simple **React.js** application that demonstrates an e-commerc
 ## Demo
 
 ### Live Demo
-- [Live Demo Link](https://example.netlify.app)  
+- [https://fake-productstore.netlify.app/](https://example.netlify.app)  
   *(Replace this with your deployed link once the project is hosted on Netlify or a similar platform.)*
 
 ---
@@ -43,4 +43,4 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/add-to-cart.git
+   git clone https://github.com/GowthamAbi/React-Router.git
